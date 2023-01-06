@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+# I'm Yosafat
+
+**`Data Analyst/Fintech Enthusiast`**
 <!--
 **crypter70/crypter70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
