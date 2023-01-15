@@ -12,6 +12,8 @@ I am a Computer Science student with major skills in web scraping, data analysis
 ## Statistic
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=crypter70&show_icons=true&theme=swift)
 
+
+![](https://komarev.com/ghpvc/?username=sekarmk03)
 <!--
 **crypter70/crypter70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
