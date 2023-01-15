@@ -12,17 +12,17 @@ I am a Computer Science student with major skills in web scraping, data analysis
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crypter70&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Statistic
-<img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=crypter70&layout=compact&langs_count=8"/>
+<img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=crypter70&layout=compact&langs_count=8"/>
 
 <!-- ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=crypter70&show_icons=true&theme=swift) -->
 
 
-<p align="left">
+<!-- <p align="left">
 <a href="https://github.com/crypter70">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=crypter70&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=crypter70&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+</p> -->
 
 
 ![](https://komarev.com/ghpvc/?username=crypter70)
