@@ -13,6 +13,14 @@ I am a Computer Science student with major skills in web scraping, data analysis
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=crypter70&show_icons=true&theme=swift)
 
 
+<p align="left">
+<a href="https://github.com/crypter70">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=crypter70&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=crypter70&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
 ![](https://komarev.com/ghpvc/?username=crypter70)
 <!--
 **crypter70/crypter70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
