@@ -4,7 +4,7 @@
 
 **`Data Analyst/Fintech Enthusiast`**
 
-I am a computer science student with major skills in web scraping, data analysis, and data visualization. Currently, I am working as a Data Analyst at the Data Center of Universitas Pendidikan Indonesia. Active in organizations such as Curriculum Core Team at Google Developer Student Club (GDSC) Universitas Pendidikan Indonesia. Experienced in the organization for 2 years and actively lead and collaborate in teams.
+Experienced Data Analyst with 1 year of expertise in data analysis, data visualization, data wrangling, statistical analysis, machine learning, and web scraping. Skilled in extracting and interpreting actionable insights to drive data-informed decision making. Seeking opportunities in data-driven roles such as Data Analyst or Data Scientist. Experienced in the organization for 2 years, actively leading and collaborating in teams.
 
 ## Statistic
 <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=crypter70&show_icons=true&include_all_commits=true&count_private=true"/> -->
