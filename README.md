@@ -2,7 +2,7 @@
 
 ## I'm Yosafat
 
-**`Data Analyst/Data Scientist/Fintech Enthusiast`**
+**`Data Analyst | Data Scientist | Fintech Enthusiast`**
 
 Experienced Data Analyst with 1 year of expertise in data analysis, data visualization, data wrangling, statistical analysis, machine learning, and web scraping. Skilled in extracting and interpreting actionable insights to drive data-informed decision making. Seeking opportunities in data-driven roles such as Data Analyst or Data Scientist. Experienced in the organization for 2 years, actively leading and collaborating in teams.
 
