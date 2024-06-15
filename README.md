@@ -4,7 +4,7 @@
 
 **`Data Scientist | Machine Learning Engineer`**
 
-Experienced Data Scientist with a strong background in programming, data analysis, and algorithm development. Had more than 1 year of experience in the data field with expertise encompassing end-to-end machine learning development, Natural Language Processing (NLP), deep learning frameworks, statistical analysis, data analysis, data wrangling, and web scraping. Advanced in Python and had considerable experience with TensorFlow, PyTorch, Scikit-learn, and cloud platforms such as Amazon Web Services (AWS) and Google Cloud Platform (GCP). Accustomed to working cross-functionally in teams and have developed expertise in building, optimizing, and applying machine learning models to solve business and technical problems.
+Experienced Data Scientist with a strong background in programming, development and deployment of ML/DL models, and data analytics. Had approximately 2 years of experience in the data field, encompassing end-to-end ML/DL model development, Natural Language Processing (NLP) applications, ML/DL framework utilization, data analysis, data cleaning, and web scraping. Proficient in Python, cloud platforms such as Amazon Web Services (AWS) and Google Cloud Platform (GCP), ML/DL frameworks such as PyTorch, TensorFlow, Keras, and scikit-learn. Interested and familiar with LLMs and their applications, as well as financial technology. Demonstrated ability to collaborate effectively in teams and work independently, with strong analytical skills to solve complex problems.
 
 <!-- GitHub Statistic -->
 ## Statistic
