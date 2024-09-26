@@ -18,12 +18,6 @@ Experienced Data Scientist with a strong background in programming, development 
 
 <!-- Profile views -->
 ![](https://komarev.com/ghpvc/?username=crypter70)
-
-## Latest Article
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@crypter70/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@crypter70/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@crypter70/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@crypter70/1" alt="Recent Article 1"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@crypter70/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@crypter70/2" alt="Recent Article 2">
-
 <!--
 **crypter70/crypter70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
